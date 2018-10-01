@@ -1,0 +1,4 @@
+>>> b={1:'ram',2:'setha',3:'krishna'}
+>>> b[3]
+'krishna'
+
