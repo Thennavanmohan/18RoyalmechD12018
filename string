@@ -1,0 +1,32 @@
+dl118@soetcse:~$ cd thennavan
+dl118@soetcse:~/thennavan$ python3
+
+>>> a="thennavan"
+>>> print(a.upper())
+THENNAVAN
+>>> print(a.lower())
+thennavan
+>>> print(a.swapcase())
+THENNAVAN
+>>> print(a.isupper())
+False
+>>> print(a.lower())
+thennavan
+>>> print(a.isupper())
+False
+>>> print(a.islower())
+True
+>>> print(a.isnumeric())
+False
+>>> print(a.capitalize())
+Thennavan
+>>> print(a*2)
+thennavanthennavan
+>>> a="thennavan"
+>>> b="mech"
+>>> print(a+b)
+thennavanmech
+>>> a="thennavan"
+>>> print(len(a))
+9
+
